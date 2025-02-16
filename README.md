@@ -1,2 +1,2 @@
-# visualization-workshops
+# Data Analytics Workshops
 Teaching Data Visualization with Seaborn
